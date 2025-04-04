@@ -1,1 +1,5 @@
-# cpp-file
+Hii there ✌️🙋‍♂️
+-----this is Dipayan 😊
+-----this repository helps you to understand different data structures...
+-----begginer friendly...
+-----Go and Check it out
